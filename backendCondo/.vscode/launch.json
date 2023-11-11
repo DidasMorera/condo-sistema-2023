@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendCondoApplication<backendCondo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dev.backendCondo.BackendCondoApplication",
+            "projectName": "backendCondo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
